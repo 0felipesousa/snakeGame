@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    background-color: rgba(15, 14, 14, 0.875);
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    flex-wrap: wrap;
+}
+
+canvas {
+    position: relative;
+    background-color: rgb(46, 54, 51);
+}
